@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="9" height="9" tilewidth="32" tileheight="32" infinite="0" nextlayerid="4" nextobjectid="1">
+ <tileset firstgid="1" source="../../tiles/Yoda Stories.tsx"/>
+ <layer id="1" name="Bottom" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJwLZmJgCCYCxxOpDh2HkKmPWuaHomF0eStW7GpA4tjMC8NiNwBGaxrc
+  </data>
+ </layer>
+ <layer id="2" name="Middle" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJyTZ2JgMABieShdDsS6UBrEVwBiJSBOYYTQ2IAiE0IOWY0qlF2OZA4IzGZF1YvNHHTzsamRRzOfkHuwmYPuL5gakDiIbYGGQQBdDACXsgoj
+  </data>
+ </layer>
+ <layer id="3" name="Top" width="9" height="9">
+  <data encoding="base64" compression="zlib">
+   eJzLZGJgyAJifCANKs/Hil0+HY9+D6BcAQHziTGHGuajgzQy9DmzYIoBAHWcBEw=
+  </data>
+ </layer>
+</map>

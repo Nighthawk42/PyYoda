@@ -1,0 +1,7 @@
+
+*.bak
+.vscode/settings.json
+Prompts.txt
+Idea.txt
+data/data_old.7z
+*.pyc

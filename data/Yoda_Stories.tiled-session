@@ -1,0 +1,184 @@
+{
+    "activeFile": "maps/111/tiled.tmx",
+    "expandedProjectPaths": [
+        "maps/106",
+        "maps/101",
+        "maps/1",
+        "maps",
+        "maps/102",
+        "maps/104",
+        "maps/111",
+        "tiles",
+        "maps/0",
+        ".",
+        "maps/109",
+        "maps/10",
+        "maps/103",
+        "maps/107",
+        "maps/108",
+        "maps/105",
+        "maps/100",
+        "maps/11",
+        "maps/110"
+    ],
+    "fileStates": {
+        "Yoda_Stories_Tiles.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "maps/0/tiled.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 323,
+                "y": 195
+            }
+        },
+        "maps/1/tiled.tmx": {
+            "scale": 2.96875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144,
+                "y": 143.66315789473686
+            }
+        },
+        "maps/10/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/100/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/101/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.33684210526314,
+                "y": 288.33684210526314
+            }
+        },
+        "maps/102/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/103/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/104/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/105/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/106/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 286.9894736842105,
+                "y": 286.98947368421057
+            }
+        },
+        "maps/107/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/108/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/109/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/11/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/110/tiled.tmx": {
+            "scale": 1.484375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288,
+                "y": 288
+            }
+        },
+        "maps/111/tiled.tmx": {
+            "scale": 2.96875,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 22.56842105263157,
+                "y": 14.652631578947378
+            }
+        },
+        "tiles/Yoda Stories.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/Nighthawk/Desktop",
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "openFiles": [
+        "maps/111/tiled.tmx"
+    ],
+    "project": "Yoda_Stories.tiled-project",
+    "recentFiles": [
+        "maps/111/tiled.tmx",
+        "maps/110/tiled.tmx",
+        "maps/11/tiled.tmx",
+        "maps/109/tiled.tmx",
+        "maps/108/tiled.tmx",
+        "maps/107/tiled.tmx",
+        "maps/105/tiled.tmx",
+        "maps/104/tiled.tmx",
+        "maps/103/tiled.tmx",
+        "maps/102/tiled.tmx",
+        "maps/100/tiled.tmx",
+        "maps/10/tiled.tmx"
+    ]
+}
