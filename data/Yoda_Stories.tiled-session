@@ -1,31 +1,74 @@
 {
-    "activeFile": "maps/111/tiled.tmx",
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tiles/Yoda Stories.tsx",
     "expandedProjectPaths": [
-        "maps/106",
-        "maps/101",
-        "maps/1",
-        "maps",
-        "maps/102",
-        "maps/104",
-        "maps/111",
+        "maps/94",
+        "combined_maps/dagobah",
+        "maps/96",
+        "maps/95",
+        "maps/93",
         "tiles",
-        "maps/0",
         ".",
-        "maps/109",
-        "maps/10",
-        "maps/103",
-        "maps/107",
-        "maps/108",
-        "maps/105",
-        "maps/100",
-        "maps/11",
-        "maps/110"
+        "combined_maps"
     ],
     "fileStates": {
+        "C:/Users/Nighthawk/Desktop/LearnPython/Contra/data/Platforms.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Nighthawk/Desktop/LearnPython/Contra/data/map.tmx": {
+            "scale": 0.06791015625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 7848.605119355765,
+                "y": 3350.0143802128264
+            }
+        },
+        "C:/Users/Nighthawk/Desktop/LearnPython/Contra/data/tiles_out.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Nighthawk/Desktop/LearnPython/Western/data/fence.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Nighthawk/Desktop/LearnPython/Western/data/ground.tsx": {
+            "scaleInDock": 1
+        },
+        "C:/Users/Nighthawk/Desktop/LearnPython/Western/data/map.tmx": {
+            "scale": 0.22191406249999998,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 2748.811828903362,
+                "y": 1403.6965323006514
+            }
+        },
+        "C:/Users/Nighthawk/Desktop/LearnPython/Western/data/objects.tsx": {
+            "scaleInDock": 1
+        },
         "Yoda_Stories_Tiles.tsx": {
             "dynamicWrapping": false,
             "scaleInDock": 1,
             "scaleInEditor": 1
+        },
+        "combined_maps/dagobah/dagobah.tmx": {
+            "scale": 0.7397135416666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 577.250484069706,
+                "y": 576.5745467347298
+            }
+        },
+        "combined_maps/dagobah/degobah.tmx": {
+            "expandedObjectLayers": [
+                5
+            ],
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": -258,
+                "y": 913.6666666666666
+            }
         },
         "maps/0/tiled.tmx": {
             "scale": 1,
@@ -39,32 +82,32 @@
             "scale": 2.96875,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 144,
-                "y": 143.66315789473686
+                "x": 143.1578947368421,
+                "y": 142.98947368421054
             }
         },
         "maps/10/tiled.tmx": {
             "scale": 1.484375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 288,
-                "y": 288
+                "x": 286.3157894736842,
+                "y": 287.3263157894737
             }
         },
         "maps/100/tiled.tmx": {
             "scale": 1.484375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 288,
-                "y": 288
+                "x": 286.3157894736842,
+                "y": 287.3263157894737
             }
         },
         "maps/101/tiled.tmx": {
             "scale": 1.484375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 288.33684210526314,
-                "y": 288.33684210526314
+                "x": 287.66315789473686,
+                "y": 287.3263157894737
             }
         },
         "maps/102/tiled.tmx": {
@@ -135,8 +178,8 @@
             "scale": 1.484375,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 288,
-                "y": 288
+                "x": 286.9894736842105,
+                "y": 287.3263157894737
             }
         },
         "maps/110/tiled.tmx": {
@@ -151,8 +194,304 @@
             "scale": 2.96875,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 22.56842105263157,
-                "y": 14.652631578947378
+                "x": 21.89473684210526,
+                "y": 14.31578947368422
+            }
+        },
+        "maps/15/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/262/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/263/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/264/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/265/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/266/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/267/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/268/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/270/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/271/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/272/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/273/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/274/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/275/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/277/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/278/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/279/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/28/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/280/tiled.tmx": {
+            "scale": 2.958854166666667,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 144.3126210174265,
+                "y": 144.14363668368244
+            }
+        },
+        "maps/32/tiled.tmx": {
+            "scale": 0.6036458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.24849007765323,
+                "y": 289.0767903364971
+            }
+        },
+        "maps/530/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/592/tiled.tmx": {
+            "scale": 0.6036458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.24849007765323,
+                "y": 289.0767903364971
+            }
+        },
+        "maps/593/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/606/tiled.tmx": {
+            "scale": 0.6036458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.24849007765323,
+                "y": 289.0767903364971
+            }
+        },
+        "maps/622/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/647/tiled.tmx": {
+            "scale": 0.6036458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.24849007765323,
+                "y": 289.0767903364971
+            }
+        },
+        "maps/648/tiled.tmx": {
+            "scale": 0.6036458333333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.24849007765323,
+                "y": 289.0767903364971
+            }
+        },
+        "maps/7/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/70/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/91/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/93/tiled.tmx": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 326,
+                "y": 224.5
+            }
+        },
+        "maps/94/tiled.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 548,
+                "y": 303
+            }
+        },
+        "maps/95/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/96/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/97/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/98/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
+            }
+        },
+        "maps/99/tiled.tmx": {
+            "scale": 1.4794270833333334,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 288.625242034853,
+                "y": 288.2872733673649
             }
         },
         "tiles/Yoda Stories.tsx": {
@@ -162,23 +501,26 @@
         }
     },
     "last.exportedFilePath": "C:/Users/Nighthawk/Desktop",
+    "map.height": 36,
     "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.width": 36,
     "openFiles": [
-        "maps/111/tiled.tmx"
+        "tiles/Yoda Stories.tsx"
     ],
     "project": "Yoda_Stories.tiled-project",
     "recentFiles": [
-        "maps/111/tiled.tmx",
-        "maps/110/tiled.tmx",
-        "maps/11/tiled.tmx",
-        "maps/109/tiled.tmx",
-        "maps/108/tiled.tmx",
-        "maps/107/tiled.tmx",
-        "maps/105/tiled.tmx",
-        "maps/104/tiled.tmx",
-        "maps/103/tiled.tmx",
-        "maps/102/tiled.tmx",
-        "maps/100/tiled.tmx",
-        "maps/10/tiled.tmx"
+        "tiles/Yoda Stories.tsx",
+        "combined_maps/dagobah/dagobah.tmx",
+        "combined_maps/dagobah/degobah.tmx",
+        "C:/Users/Nighthawk/Desktop/LearnPython/Western/data/map.tmx",
+        "maps/96/tiled.tmx",
+        "maps/95/tiled.tmx",
+        "maps/94/tiled.tmx",
+        "maps/93/tiled.tmx",
+        "maps/28/tiled.tmx",
+        "maps/280/tiled.tmx",
+        "maps/279/tiled.tmx",
+        "maps/278/tiled.tmx"
     ]
 }

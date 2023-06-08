@@ -1,0 +1,10 @@
+{
+    "player": "Luke Skywalker",
+    "windowed_width": 1280,
+    "windowed_height": 720,
+    "fullscreen": false,
+    "volume": 1.0,
+    "world_size": "small",
+    "difficulty": "easy",
+    "highscore": 0
+}

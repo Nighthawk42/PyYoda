@@ -1,10 +1,10 @@
-# classes.py - This contains our Python Classes for the game.
+# menu.py
 
-import pygame, sys, os, random, math
+import pygame
+from pytmx.util_pygame import load_pygame
 import tkinter as tk
 from tkinter import filedialog
 
-# Main Menu Classes.
 class MainMenu:
     def __init__(self, win):
         self.win = win
@@ -33,31 +33,35 @@ class MainMenu:
             frame_scaled = pygame.transform.scale(frame, self.win.get_size())
             self.background_frames.append(frame_scaled)
 
-class NewGameScreen:
-    def __init__(self, win, menu_music):
+        self.button_rects = [
+            self.button_newgame_rect,
+            self.button_loadgame_rect,
+            self.button_options_rect,
+            self.button_quit_rect
+        ]
+
+class NewGame:
+    def __init__(self, win, menu_music, settings):
         self.win = win
-        self.screen_width = win.get_width()
-        self.screen_height = win.get_height()
         self.menu_music = menu_music
+        self.settings = settings
+        self.screen_width = self.settings.window_width
+        self.screen_height = self.settings.window_height
 
     def start(self):
-        pygame.init()  # Initialize Pygame's video system
-        self.menu_music.stop()  # Stop the menu music
-        self.draw_blank_screen()
+        pass
 
-        game_running = True
-        while game_running:
-            for event in pygame.event.get():
-                if event.type == pygame.QUIT:
-                    game_running = False
+    def draw_game(self):
+        # Clear the screen
+        self.win.fill((0, 0, 0))
 
-            pygame.display.update()
+        # Draw game elements
+        # ...
 
-        pygame.quit()  # Quit Pygame
+        # Draw other game objects, characters, UI, etc.
 
-    def draw_blank_screen(self):
-        self.win.fill((0, 0, 0))  # Fill the screen with black
-
+        # Add any additional drawing logic specific to Dagobah
+    
 class LoadGame:
     def __init__(self):
         self.root = tk.Tk()
@@ -70,9 +74,3 @@ class LoadGame:
             # Perform further actions with the selected save file
         else:
             print("No save file selected.")
-
-# Gameplay classes. 
-class Player:
-    class Player(pygame.sprite.Sprite):
-        def __init__(self,pos,groups):
-            super().__init__(groups)
